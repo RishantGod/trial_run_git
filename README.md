@@ -1,4 +1,4 @@
 # This is the trail run
 
 
-Finally learning github. It's amazing!
+It's amazing! But the ssh part is a bit crass
