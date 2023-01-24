@@ -10,3 +10,9 @@ This has been a difficult process.
 ## Local changes from a branch
 
 This text are from a branch.
+
+
+## Adding a new section 
+
+1. Numbered list
+
